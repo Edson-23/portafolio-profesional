@@ -1,0 +1,34 @@
+PORTAFOLIO DE EDSON ANTONIO RIVERA MEDINA
+
+ABRIR
+1. Conserva index.html y styles.css en la misma carpeta.
+2. Haz doble clic en index.html o usa Abrir con > Chrome, Edge o Firefox.
+3. No hace falta instalar Node.js ni iniciar un servidor.
+
+APRENDER Y EDITAR
+- index.html define el contenido y la estructura. Busca <h1> para tu nombre.
+- Cada <article> contiene un proyecto y puede reutilizarse como sección.
+- styles.css define colores, espacios, tarjetas y adaptación a pantallas.
+- :root contiene los colores compartidos. --accent controla el verde.
+- @media adapta la página; @container adapta cada tarjeta a su ancho.
+- Guarda y recarga el navegador después de editar.
+
+ALCANCE Y FUENTES
+Se revisaron los README de RogerG03/abc-next-js, RogerG03/my-personals-skills
+y RogerG03/odonto-soft, y el package.json de OdontoSoft mediante GitHub.
+Restaurant Don Pepe: revisión local de package.json, rutas y estructura de
+Frontend/src en Erserady/MOPI---Versiones (rama master).
+
+React/JavaScript/Vite corresponden al frontend revisado de Don Pepe.
+Next.js/React/TypeScript corresponden a OdontoSoft.
+OdontoSoft es un frontend con datos ficticios en memoria, sin BD de producto.
+Las funciones descritas se basan en código/documentación, sin ejecutar esas apps.
+No se atribuyen contribuciones personales específicas ni resultados medidos.
+Las ilustraciones son conceptuales; no son capturas de los productos.
+El enlace privado de OdontoSoft requiere permisos de GitHub para sus visitantes.
+No se ha publicado este portafolio. La entrega es HTML y CSS estáticos.
+
+La estructura toma la separación de responsabilidades como referencia de ABC;
+no incluye React/Next.js en esta entrega porque se solicitó HTML y CSS.
+La biblioteca my-personals-skills es una referencia de trabajo, no un proyecto
+adicional del portafolio. Se consultó Modern Web Guidance (card, responsive-design).
