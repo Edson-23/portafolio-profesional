@@ -1,0 +1,17 @@
+ORIGEN DE LAS CAPTURAS
+
+donpepe-panel.webp / donpepe-panel.jpg
+Captura local del frontend sin modificaciones visuales de Restaurant Don Pepe.
+Ruta: /waiter-dashboard. Código: Erserady/MOPI---Versiones, rama master,
+commit 23f4f64b8413c4fca4a6590a01d9e009b9f68e3a.
+Se inició el frontend Vite para capturar su panel de mesas. Esto no verifica
+integración de backend, autenticación ni funcionamiento completo del sistema.
+
+odonto-directory.webp / odonto-directory.jpg
+Conversión de docs/demo/directory.png, RogerG03/odonto-soft.
+Blob fuente: 8af5f641063287ec6499f649137ce20f53b38ab6.
+Captura histórica del prototipo con datos ficticios, no una captura nueva
+de la versión actual ni evidencia de uso clínico real.
+
+Ambas imágenes se incorporaron al portafolio por solicitud de su titular.
+Solo se convierten a WebP y JPEG; no se reconstruye ni inventa la interfaz.
