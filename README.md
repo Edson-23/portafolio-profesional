@@ -2,6 +2,8 @@
 
 **Cibernética Electrónica · Desarrollador frontend junior**
 
+**[Visitar mi portafolio web](https://edson-23.github.io/portafolio-profesional/)**
+
 Soy ingeniero en Cibernética Electrónica, con formación en la Universidad Tecnológica La Salle (2021–2025), experiencia práctica en soporte IT y desarrollo frontend. Mi formación continua incluye React, Next.js, JavaScript, TypeScript y herramientas de IA aplicadas al desarrollo.
 
 Realicé prácticas de soporte IT en Cukra Industrial entre septiembre y noviembre de 2025. En mi proyecto de graduación para Restaurante Rancho Don Pepe participé en desarrollo frontend con React, diseño adaptable, análisis del flujo de pedidos, documentación y control de versiones, según mi CV.
