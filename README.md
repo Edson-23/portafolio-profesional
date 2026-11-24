@@ -57,7 +57,7 @@ No se requieren dependencias ni servidor. Esta entrega está implementada con HT
 - Animación breve de entrada y movimientos de interacción únicamente cuando el usuario no solicita reducir movimiento.
 - Los logotipos identifican herramientas; no representan clientes, patrocinadores ni avales.
 
-Las ilustraciones del portafolio son composiciones conceptuales, no capturas de las aplicaciones.
+Las cabeceras de los proyectos muestran capturas reales: Don Pepe se capturó al ejecutar localmente su frontend y OdontoSoft utiliza una captura histórica de demostración incluida en su repositorio. Se sirven en WebP con JPEG de respaldo; el origen se registra en `assets/SCREENSHOTS.txt`. No acreditan una aplicación en producción.
 
 ## Perfil
 

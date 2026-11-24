@@ -25,7 +25,7 @@ OdontoSoft es un frontend con datos ficticios en memoria, sin BD de producto.
 Las funciones descritas se basan en código/documentación, sin ejecutar esas apps.
 La participación en Don Pepe procede del CV proporcionado por su titular.
 No se atribuyen contribuciones específicas en OdontoSoft ni resultados medidos.
-Las ilustraciones son conceptuales; no son capturas de los productos.
+Las cabeceras usan capturas reales del frontend; ver assets/SCREENSHOTS.txt.
 OdontoSoft se presenta con su alcance documentado, sin enlace al código privado.
 No se ha publicado este portafolio. La entrega es HTML y CSS estáticos.
 
