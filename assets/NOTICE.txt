@@ -1,0 +1,6 @@
+Logotipos de tecnologías obtenidos de Devicon:
+https://github.com/devicons/devicon
+Archivos: icons/<nombre>/<nombre>-original.svg (rama master).
+Devicon se distribuye bajo licencia MIT. Los logotipos son marcas de sus
+respectivos titulares; se usan únicamente para identificar tecnologías.
+No representan clientes, patrocinio, afiliación ni certificación.
