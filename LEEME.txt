@@ -1,7 +1,7 @@
 PORTAFOLIO DE EDSON ANTONIO RIVERA MEDINA
 
 ABRIR
-1. Conserva index.html y styles.css en la misma carpeta.
+1. Conserva index.html, styles.css y assets/ en la misma carpeta.
 2. Haz doble clic en index.html o usa Abrir con > Chrome, Edge o Firefox.
 3. No hace falta instalar Node.js ni iniciar un servidor.
 
@@ -23,12 +23,22 @@ React/JavaScript/Vite corresponden al frontend revisado de Don Pepe.
 Next.js/React/TypeScript corresponden a OdontoSoft.
 OdontoSoft es un frontend con datos ficticios en memoria, sin BD de producto.
 Las funciones descritas se basan en código/documentación, sin ejecutar esas apps.
-No se atribuyen contribuciones personales específicas ni resultados medidos.
+La participación en Don Pepe procede del CV proporcionado por su titular.
+No se atribuyen contribuciones específicas en OdontoSoft ni resultados medidos.
 Las ilustraciones son conceptuales; no son capturas de los productos.
-El enlace privado de OdontoSoft requiere permisos de GitHub para sus visitantes.
+OdontoSoft se presenta con su alcance documentado, sin enlace al código privado.
 No se ha publicado este portafolio. La entrega es HTML y CSS estáticos.
 
 La estructura toma la separación de responsabilidades como referencia de ABC;
 no incluye React/Next.js en esta entrega porque se solicitó HTML y CSS.
 La biblioteca my-personals-skills es una referencia de trabajo, no un proyecto
 adicional del portafolio. Se consultó Modern Web Guidance (card, responsive-design).
+
+ACTUALIZACIÓN DEL 23 DE NOVIEMBRE DE 2026
+Trayectoria y descripción profesional basadas en el CV de Edson Rivera.
+No se incluye el PDF ni sus datos de contacto en los archivos del sitio.
+Proyectos en una columna. Flujos simplificados aprobados por el usuario.
+Logotipos: React, Next.js, TypeScript, JavaScript, Git y GitHub (Devicon).
+Opacidad del 50 % y escala de grises; color completo al pasar el cursor
+o enfocar el enlace con teclado. En móvil, la fila se puede desplazar.
+Se consultaron las guías motion e icons; movimiento opcional y breve.
